@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <meta name = "viewport" content = "width = device-width, intial-scale = 1.0">
+        <title>How to make Injera</title>
+    </head>
+    <style>
+        body {background-color:rgb(173, 114, 26);}
+        h1 {background-color: burlywood;
+            border:solid 5px black;
+            margin:50px 50px 50px 50px;
+            padding:0 0 0 0;
+            font-family: "Comic Sans MS", cursive, sans-serif;
+            text-align: center;}
+        h2 { background-color: darkred;
+            border:solid 5px black;
+            margin:50px 50px 50px 50px;
+            font-family: "Comic Sans MS", cursive, sans-serif;
+            text-align: center;}
+        ol,ul {background-color: rgb(240, 195, 128);
+            color: green;
+            margin: 50px 50px 50px 50px;
+            border-style: double;
+            font-family: "Comic Sans MS", cursive, sans-serif;}
+        #center {
+            text-align: center;}
+        p.font {text-align: center;
+            color: darkred;}
+    </style>
+<body>
+    <h1>How to make Injera (Ethiopian Flatbread)</h1>
+    <main>
+        <article>
+            <h2>The things you need</h2>
+            <ul>
+                <li>2 cups of teff flour (Can use barley or wheat flour as subsitute)</li>
+                    <dd>Try using a mix of teff and barley/wheat flour if 1st time. Easier that way.</dd>
+                <li>3 Cups of Water</li>
+                <li>1/4 teaspoon of dry active yeast</li>
+            </ul>
+        </article>
+        <br>
+        <article>
+            <h2>How to make it (Source <a href="Daringgourmet.com">Daringgourmet.com</a>):</h2>
+            <ol>
+                <li>In a large mixing bowl, combine the flour and water (and yeast if you're using it). Loosely place some plastic wrap on the bowl 
+                    (it needs some air circulation, you just want to keep any critters out) 
+                    and let the mixture sit undisturbed at room temperature for 4-5 days (the longer it ferments, the deeper the flavor).
+                     (Depending on what kind of flour you're using, you may need to add a little more water if the mixture is becoming dry.)  The mixture will be fizzy, the color will be very dark and, depending on the humidity, a layer of aerobic yeast will have formed on the top. (Aerobic yeast is a normal result of fermentation.  If however your batter forms mold on it, it will need to be discarded.) 
+                     Pour off the aerobic yeast and as much of the liquid as possible. A clay-like batter will remain. Give it a good stir.</li>
+                     <br>
+                <li>In a large mixing bowl, combine the flour and water (and yeast if you're using it). Loosely place some plastic wrap on the bowl (it needs some air circulation, you just want to keep any critters out) and let the mixture sit undisturbed at room temperature for 4-5 days (the longer it ferments, the deeper the flavor). (Depending on what kind of flour you're using, you may need to add a little more water if the mixture is becoming dry.)  The mixture will be fizzy, the color will be very dark and, depending on the humidity, a layer of aerobic yeast will have formed on the top. (Aerobic yeast is a normal result of fermentation.  If however your batter forms mold on it, it will need to be discarded.) Pour off the aerobic yeast and as much of the liquid as possible. A clay-like batter will remain. Give it a good stir. </li>
+                <br>
+                <li>Heat a non-stick skillet over medium heat. Depending on how good your non-stick pan is, you may need to very lightly spray it with some oil. Spread the bottom of the skillet with the injera batter - not as thin as crepes but not as thick as traditional pancakes. Allow the injera to bubble and let the bubbles pop. Once the bubbles have popped, place a lid on top of the pan and turn off the heat. Let the injera steam cook for a couple or so more minutes until cooked through. Be careful not to overcook the injera or they will become gummy and soggy. Remove the injera with a spatula and repeat.</li>
+                <br>
+                <li>IMPORTANT NOTE:  Both the texture and color of the injera will vary greatly depending on what kind of teff you use (dark or ivory) and whether or not you're combining it with other flours.  Gluten-based flours (e.g. wheat and barley) will yield a much different texture than 100% teff.  In the pictures and recipe below I'm using 100% dark teff, something you will not find in restaurants and will look different than what most are accustomed to, but is traditional to Ethiopian home cooking.  Make your injera according to what you prefer.</li>
+            </ol>
+            <p class="font">All this found on  <a href="Daringgourmet.com">Daringgourmet.com</a></p>
+        </article>
+        <br>
+        <footer>
+            <address id="center">
+                Beserat Tafesse<br>
+                <a href="beserattafesse@gmail.com">beserattafesse@gmail.com</a><br>
+                123-456-7890
+            </address>
+        </footer>
+    </main>
+</body>
+</html>
